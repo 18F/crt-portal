@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Issue Repo
+    url: https://github.com/usdoj-crt/crt-portal-management
+    about: This is where the project management for civilrights.justic.gov takes place. Please ask and answer questions here.
+  - name: Code Repo
+    url: https://github.com/usdoj-crt/crt-portal
+    about: This is where the code for civilrights.justice.gov lives.
