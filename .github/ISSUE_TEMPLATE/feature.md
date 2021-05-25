@@ -6,8 +6,6 @@ labels: ''
 assignees: ''
 
 ---
-TITLE_OF_TICKET
-
 ## User story:
 <!-- As a <type of user> I need to ... -->
 
